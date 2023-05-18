@@ -5,11 +5,11 @@
   "label" : "Cover",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "[Cover of a Flag Book]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "[Copyright Leo Bazzurro but released as Creative Commons]",
   "sequences" : [ {
     "@id" : "http://dd38501f-56c0-4eda-ac88-c49a9e438cfc",
     "@type" : "sc:Sequence",
