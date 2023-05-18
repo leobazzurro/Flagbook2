@@ -2,18 +2,17 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://leobazzurro.github.io/Flagbook2/manifests/manifest3.json",
   "@type" : "sc:Manifest",
-  "label" : "Flag Book",
+  "label" : " Flag Book Cover",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Cover of a Flag Book]",
+    "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "Copyright Leonello Bazzurro but released as Creative Commons",
+  "attribution" : "Copyright Leo Bazzurro but released as Creative Commons",
   "sequences" : [ {
     "@id" : "http://dd38501f-56c0-4eda-ac88-c49a9e438cfc",
     "@type" : "sc:Sequence",
-    "viewingHint": "individuals",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
@@ -21,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://36ccaf8a-9e14-4a93-93e4-32a918c633e9",
       "@type" : "sc:Canvas",
-      "label" : "cover",
+      "label" : "Red Cover",
       "height" : 3457,
       "width" : 4608,
       "images" : [ {
@@ -47,7 +46,7 @@
     }, {
       "@id" : "http://e4cd10e0-c765-49fe-869c-fc83b85b58cc",
       "@type" : "sc:Canvas",
-      "label" : "other view",
+      "label" : "Other View",
       "height" : 3456,
       "width" : 4608,
       "images" : [ {
