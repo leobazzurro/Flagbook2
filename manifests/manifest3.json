@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://36ccaf8a-9e14-4a93-93e4-32a918c633e9",
       "@type" : "sc:Canvas",
-      "label" : "Red Cover",
+      "label" : "Book Cover",
       "height" : 3457,
       "width" : 4608,
       "images" : [ {
