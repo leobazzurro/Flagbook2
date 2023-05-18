@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://leobazzurro.github.io/Flagbook2/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Cover",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://dd38501f-56c0-4eda-ac88-c49a9e438cfc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c8df9e50-a121-42e0-9059-e186ae48f1a1",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bfa8f349-a2fd-46e0-9926-c4520dd8c68b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-20230517-235207813/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-20230517-235207813",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://c8df9e50-a121-42e0-9059-e186ae48f1a1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1f922430-6373-498d-82a2-1ab98efa586b",
+      "@type" : "sc:Canvas",
+      "label" : "Front View",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d026544d-b590-4c74-8d16-6b4481e20384",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-20230516-161426763/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-20230516-161426763",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://1f922430-6373-498d-82a2-1ab98efa586b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff",
+      "@type" : "sc:Canvas",
+      "label" : "side view",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://508af6d4-4cdc-46e2-a94f-6dbe57279e4b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-20230517-235035435/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-20230517-235035435",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
