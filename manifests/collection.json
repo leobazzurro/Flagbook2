@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://leobazzurro.github.io/Flagbook2/manifests/manifest2.json",
-    "label" : "Cover"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://leobazzurro.github.io/Flagbook2/manifests/manifest3.json",
     "label" : "Cover"
   } ]
