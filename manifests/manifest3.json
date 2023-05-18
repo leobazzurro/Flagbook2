@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://leobazzurro.github.io/Flagbook2/manifests/manifest3.json",
   "@type" : "sc:Manifest",
-  "label" : " Flag Book Cover",
+  "label" : "Flag Book",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
