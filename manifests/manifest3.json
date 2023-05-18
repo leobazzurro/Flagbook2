@@ -5,7 +5,7 @@
   "label" : "Flag Book",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Different Views of a Flag Book]",
+    "@value" : "[Perspectives of a Flag Book]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://36ccaf8a-9e14-4a93-93e4-32a918c633e9",
       "@type" : "sc:Canvas",
-      "label" : "Book Cover",
+      "label" : "Book Cover and Spine",
       "height" : 3457,
       "width" : 4608,
       "images" : [ {
@@ -98,7 +98,7 @@
     }, {
       "@id" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff",
       "@type" : "sc:Canvas",
-      "label" : "side view",
+      "label" : "Side View",
       "height" : 3456,
       "width" : 4608,
       "images" : [ {
